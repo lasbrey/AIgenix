@@ -1,0 +1,22 @@
+[
+    {
+      "date": "2024-12-21",
+      "yourPosts": 5,
+      "competitorPosts": 3
+    },
+    {
+      "date": "2024-12-20",
+      "yourPosts": 4,
+      "competitorPosts": 6
+    },
+    {
+      "date": "2024-12-19",
+      "yourPosts": 3,
+      "competitorPosts": 4
+    },
+    {
+      "date": "2024-12-18",
+      "yourPosts": 7,
+      "competitorPosts": 5
+    }
+  ]

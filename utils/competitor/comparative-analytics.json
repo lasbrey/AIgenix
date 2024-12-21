@@ -1,0 +1,22 @@
+[
+    {
+      "metric": "Engagement Rate",
+      "you": 5.4,
+      "competitor": 6.1
+    },
+    {
+      "metric": "Average Likes",
+      "you": 1200,
+      "competitor": 1500
+    },
+    {
+      "metric": "Followers Growth",
+      "you": 8,
+      "competitor": 10
+    },
+    {
+      "metric": "Comments Per Post",
+      "you": 45,
+      "competitor": 50
+    }
+  ]

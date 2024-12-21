@@ -1,0 +1,22 @@
+[
+    {
+      "hashtag": "#TechTrends",
+      "frequency": 120,
+      "engagement": "High"
+    },
+    {
+      "hashtag": "#Innovation",
+      "frequency": 95,
+      "engagement": "Medium"
+    },
+    {
+      "hashtag": "#AI",
+      "frequency": 200,
+      "engagement": "Very High"
+    },
+    {
+      "hashtag": "#FutureTech",
+      "frequency": 85,
+      "engagement": "Low"
+    }
+  ]

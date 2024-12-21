@@ -1,0 +1,23 @@
+[
+    {
+      "platform": "Instagram",
+      "title": "Exploring the Future of AI",
+      "performance": "1.2M views, 35K likes, 5K comments"
+    },
+    {
+      "platform": "Twitter",
+      "title": "Top 10 React Features You Should Know",
+      "performance": "500K views, 25K likes, 3K retweets"
+    },
+    {
+      "platform": "YouTube",
+      "title": "The Ultimate Guide to JavaScript",
+      "performance": "2M views, 100K likes, 20K comments"
+    },
+    {
+      "platform": "Facebook",
+      "title": "How to Grow Your Tech Startup",
+      "performance": "300K views, 10K likes, 1.5K shares"
+    }
+]
+
